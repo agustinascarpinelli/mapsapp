@@ -1,5 +1,3 @@
-Aquí tienes un ejemplo de un archivo README para tu aplicación de Flutter que utiliza el paquete `mapbox` y otras dependencias relacionadas:
-
 # Maps App
 
 Una aplicación de Flutter que muestra un mapa basado en tu ubicación actual y te permite buscar direcciones o seleccionar manualmente una ubicación en el mapa. Utiliza la API de Mapbox para mostrar el mapa y calcular la distancia y el tiempo estimado hasta el destino seleccionado.
