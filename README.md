@@ -55,11 +55,7 @@ Una aplicación de Flutter que muestra un mapa basado en tu ubicación actual y 
    flutter run
    ```
 
-## Uso
 
-_Proporciona instrucciones sobre cómo utilizar tu aplicación, cómo buscar direcciones, seleccionar una ubicación, etc._
-
-## Contribución
 
 Las contribuciones son bienvenidas. Si encuentras algún error o tienes sugerencias de mejoras, siéntete libre de abrir un [issue](https://github.com/tu-usuario/maps_app/issues) o enviar un [pull request](https://github.com/tu-usuario/maps_app/pulls).
 
